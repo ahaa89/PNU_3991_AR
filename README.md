@@ -3,6 +3,8 @@
 #
 + انواع الگوریتم
 
-الگوریتم هش تیبل - Hash Table-
+1- هش تیبل - Hash Table <br>
 https://www.aparat.com/v/b0Mja
 
+2- Binery (Max) Heap <br>
+http://mollasadraschool.ir/files/BinaryMaxHeap.html
